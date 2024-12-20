@@ -1,0 +1,5 @@
+ultralytics
+cvzone
+matplotlib
+filterpy
+scikit-image
